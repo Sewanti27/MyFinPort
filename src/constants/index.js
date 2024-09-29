@@ -63,8 +63,8 @@ export const navLinks = [
       subdesc:
         'Brainwave combines the power of AI with cutting-edge web design. Users can interact with an OpenAI chat system while enjoying smooth parallax scrolling and beautifully arranged Bento grids, offering both functionality and aesthetic appeal. The responsive layout ensures a seamless experience across devices, while the minimalist design emphasizes clarity and ease of use.',
       href: 'https://sewanti27.github.io/brainwave_site_deploy/',
-      texture: '/textures/project/project1.mp4',
-      logo: '/assets/brainwave-symbol.svg',
+      texture: 'textures/project/project1.mp4',
+      logo: 'assets/brainwave-symbol.svg',
       logoStyle: {
         backgroundColor: '#2A1816',
         border: '0.2px solid #36201D',
@@ -75,7 +75,7 @@ export const navLinks = [
         {
           id: 1,
           name: 'React.js',
-          path: '/assets/react.svg',
+          path: 'assets/react.svg',
         },
         {
           id: 2,
@@ -85,12 +85,12 @@ export const navLinks = [
         {
           id: 3,
           name: 'TypeScript',
-          path: '/assets/typescript.png',
+          path: 'assets/typescript.png',
         },
         {
           id: 4,
           name: 'Framer Motion',
-          path: '/assets/framer.png',
+          path: 'assets/framer.png',
         },
       ],
     },
@@ -100,8 +100,8 @@ export const navLinks = [
       subdesc:
         'Explore a curated selection of spiritual items in a beautifully designed online store. With a minimalist layout and smooth user experience, MyPoojaBox allows visitors to browse and shop with ease, ensuring a seamless and serene shopping journey.',
       href: 'https://sewanti27.github.io/MyPoojaBox/',
-      texture: '/textures/project/project5.mp4',
-      logo: '/assets/PoojaLogo.png',
+      texture: 'textures/project/project5.mp4',
+      logo: 'assets/PoojaLogo.png',
       logoStyle: {
         backgroundColor: '#60f5a1',
         background:
@@ -109,12 +109,12 @@ export const navLinks = [
         border: '0.2px solid rgba(208, 213, 221, 1)',
         boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
       },
-      spotlight: '/assets/spotlight3.png',
+      spotlight: 'assets/spotlight3.png',
       tags: [
         {
           id: 1,
           name: 'React.js',
-          path: '/assets/react.svg',
+          path: 'assets/react.svg',
         },
         {
           id: 2,
@@ -124,12 +124,12 @@ export const navLinks = [
         {
           id: 3,
           name: 'TypeScript',
-          path: '/assets/typescript.png',
+          path: 'assets/typescript.png',
         },
         {
           id: 4,
           name: 'Framer Motion',
-          path: '/assets/framer.png',
+          path: 'assets/framer.png',
         },
       ],
     },
@@ -139,19 +139,19 @@ export const navLinks = [
       subdesc:
         'Explore a 3D island with interactive elements that highlight various projects in a creative and engaging way. With its seamless animations, responsive design, and innovative use of Three.js and React, this portfolio offers a visually stunning experience for showcasing your work.',
       href: 'https://sewanti27.github.io/3DPortfolio_Sewanti/',
-      texture: '/textures/project/project4.mp4',
-      logo: '/assets/project-logo4.png',
+      texture: 'textures/project/project4.mp4',
+      logo: 'assets/project-logo4.png',
       logoStyle: {
         backgroundColor: '#0E1F38',
         border: '0.2px solid #0E2D58',
         boxShadow: '0px 0px 60px 0px #2F67B64D',
       },
-      spotlight: '/assets/spotlight4.png',
+      spotlight: 'assets/spotlight4.png',
       tags: [
         {
           id: 1,
           name: 'React.js',
-          path: '/assets/react.svg',
+          path: 'assets/react.svg',
         },
         {
           id: 2,
@@ -161,12 +161,12 @@ export const navLinks = [
         {
           id: 3,
           name: 'TypeScript',
-          path: '/assets/typescript.png',
+          path: 'assets/typescript.png',
         },
         {
           id: 4,
           name: 'Framer Motion',
-          path: '/assets/framer.png',
+          path: 'assets/framer.png',
         },
       ],
     },
@@ -176,19 +176,19 @@ export const navLinks = [
       subdesc:
         'Discover the ideal match for your cat on Cavial, a platform tailored for pet lovers seeking companionship for their furry friends. The site combines sleek design with easy navigation, making it simple and enjoyable to browse potential partners for your beloved cat.',
       href: 'https://sewanti27.github.io/Cavial/',
-      texture: '/textures/project/project3.mp4',
-      logo: '/assets/Catlogo.png',
+      texture: 'textures/project/project3.mp4',
+      logo: 'assets/Catlogo.png',
       logoStyle: {
         backgroundColor: '#1C1A43',
         border: '0.2px solid #252262',
         boxShadow: '0px 0px 60px 0px #635BFF4D',
       },
-      spotlight: '/assets/spotlight5.png',
+      spotlight: 'assets/spotlight5.png',
       tags: [
         {
           id: 1,
           name: 'React.js',
-          path: '/assets/react.svg',
+          path: 'assets/react.svg',
         },
         {
           id: 2,
@@ -198,12 +198,12 @@ export const navLinks = [
         {
           id: 3,
           name: 'TypeScript',
-          path: '/assets/typescript.png',
+          path: 'assets/typescript.png',
         },
         {
           id: 4,
           name: 'Framer Motion',
-          path: '/assets/framer.png',
+          path: 'assets/framer.png',
         },
       ],
     },
@@ -213,19 +213,19 @@ export const navLinks = [
       subdesc:
         'Experience a dynamic and responsive Apple-inspired interface with captivating animations. The site features smooth transitions and minimalistic design, offering a seamless browsing experience that echoes Apples high-quality, modern appeal.',
       href: 'https://sewanti27.github.io/Apple_Clone_Website/',
-      texture: '/textures/project/project2.mp4',
-      logo: '/assets/apple.svg',
+      texture: 'textures/project/project2.mp4',
+      logo: 'assets/apple.svg',
       logoStyle: {
         backgroundColor: '#13202F',
         border: '0.2px solid #17293E',
         boxShadow: '0px 0px 60px 0px #2F6DB54D',
       },
-      spotlight: '/assets/spotlight2.png',
+      spotlight: 'assets/spotlight2.png',
       tags: [
         {
           id: 1,
           name: 'React.js',
-          path: '/assets/react.svg',
+          path: 'assets/react.svg',
         },
         {
           id: 2,
@@ -235,12 +235,12 @@ export const navLinks = [
         {
           id: 3,
           name: 'TypeScript',
-          path: '/assets/typescript.png',
+          path: 'assets/typescript.png',
         },
         {
           id: 4,
           name: 'Framer Motion',
-          path: '/assets/framer.png',
+          path: 'assets/framer.png',
         },
       ],
     },
@@ -263,7 +263,7 @@ export const navLinks = [
       pos: 'Sustainability COE Intern',
       duration: 'January, 2024 - July, 2024',
       title: "Conducted Life Cycle Assessments (LCA) and delivered presentations on sustainability standards (RoHS, ISO,ECD, IEC, WEEE) in the HBT team. Analyzed vehicle technologies for environmental impact using literature benchmarking and evaluated jet fuel production from ethanol via SimaPro. Developed skills in teamwork, collaboration, and application of ESG principles in sustainability projects",
-      icon: '/assets/honeywell.jpg',
+      icon: 'assets/honeywell.jpg',
       animation: 'victory',
     },
     {
@@ -272,7 +272,7 @@ export const navLinks = [
       pos: 'ReactJS Developer Intern',
       duration: 'July 2022- November 2022',
       title: "Collaborated with a talented team of developers and designers to develop a dashboard using ReactJS, which allowed users to visualize and analyze large sets of data in an intuitive and interactive manner. Leveraged my proficiency in JavaScript and JQuery to enhance the dashboard's functionality.Designed and developed graphs using the different libraries present in ReactJS",
-      icon: '/assets/mavenmagnet.jpeg',
+      icon: 'assets/mavenmagnet.jpeg',
       animation: 'clapping',
     },
     {
@@ -281,7 +281,7 @@ export const navLinks = [
       pos: 'Junior Web Developer',
       duration: 'January,2022 - June-2022',
       title: "Worked extensively with HTML, CSS, and ReactJS in front-end development. Collaborated on developing responsive websites with pixel-perfect designs and optimal user interactions. Contributed to implementing responsive design techniques by using CSS media queries and Bootstrap's responsive grid system to create flexible layouts for consistent experiences across devices.",
-      icon: '/assets/notion.svg',
+      icon: 'assets/notion.svg',
       animation: 'salute',
     },
   ];
