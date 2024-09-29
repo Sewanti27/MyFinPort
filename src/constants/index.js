@@ -70,7 +70,7 @@ export const navLinks = [
         border: '0.2px solid #36201D',
         boxShadow: '0px 0px 60px 0px #AA3C304D',
       },
-      spotlight: '/assets/spotlight1.png',
+      spotlight: 'assets/spotlight1.png',
       tags: [
         {
           id: 1,
